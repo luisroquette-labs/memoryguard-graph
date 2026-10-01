@@ -2,7 +2,7 @@
 
 Public Graphify artifacts for the native macOS MemoryGuard application.
 
-- [Interactive graph](https://luisroquette.github.io/memoryguard-graph/)
+- [Interactive graph](https://luisroquette-labs.github.io/memoryguard-graph/)
 - [Architecture report](GRAPH_REPORT.md)
 - [Raw graph data](graph.json)
 
