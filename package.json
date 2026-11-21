@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "preflight:ci": "node scripts/check-comments.mjs --self-test && node scripts/check-comments.mjs && node scripts/verify-graph.mjs"
+  },
+  "devDependencies": {
+    "acorn": "8.15.0",
+    "css-tree": "^3.1.0",
+    "parse5": "8.0.0",
+    "saxes": "^6.0.0",
+    "yaml": "2.9.1"
+  }
+}
